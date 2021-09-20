@@ -12,6 +12,8 @@ I QA Automation Engineer. I work automating web sites with lenguages like Java, 
 
 • 📱 Appium
 
+• 💻  Kotlin
+
 • 📝 Reports with Allure Framework
 
 • 📂 Page Object Model
